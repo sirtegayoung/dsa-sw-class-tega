@@ -4,11 +4,6 @@ const names = [
     'Taylor',
     'Morgan',
     'Riley',
-    'Casey',
-    'Jamie',
-    'Avery',
-    'Quinn',
-    'Cameron',
-];
+    ];
 
-console.log(names);
+console.log(names.join('\n'));
